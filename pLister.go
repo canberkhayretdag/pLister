@@ -326,7 +326,7 @@ func checkArgs(word string, usernameList string, passwordList string) {
 }
 
 func usage() {
-	fmt.Println("ADEO Security | C.H. pLister | version: 1.0")
+	fmt.Println("C.H. pLister | version: 1.0")
 	fmt.Println("---------------------------------------------------------------------------------------")
 	fmt.Println("Usage of pLister parameters\n")
 	fmt.Println("-text       Specific word of your target // for create username list (it's necessary!)")
