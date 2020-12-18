@@ -9,3 +9,7 @@ Usage of pLister parameters\
 -usize      1,2,3 // size of username list\
 -psize      1,2,3 // size of password list\
 -custom     yes or no // create username list with using custom word only (default yes)\
+
+# Installation
+
+go get -u github.com/canberkhayretdag/pLister
